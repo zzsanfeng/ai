@@ -91,3 +91,8 @@ FastAdmin遵循Apache2开源协议发布，并提供免费使用。
 版权所有Copyright © 2017-2024 by FastAdmin (https://www.fastadmin.net)
 
 All rights reserved。
+
+
+## 赞赏码
+
+![控制台](https://raw.githubusercontent.com/zzsanfeng/ai/refs/heads/master/money.png "控制台")
